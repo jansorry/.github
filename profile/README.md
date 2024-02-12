@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jansorry.com">
-    <img src="assetsitle.png" width="400" height="160"  alt="logo">
+    <img src="https://github.com/jansorry/.github/blob/main/profile/assets/title.png">
   </a>
 </p>
 
@@ -96,7 +96,7 @@
 
 ### 메인 페이지
 
-<img src="./assets/service/main.png" width="700" alt="main">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/main.png" width="250" alt="main">
 
 
 <br>
@@ -105,7 +105,7 @@
 
 ## 🛠️ Skills
 
-<img src="./assets/skills.png" width="700" alt="배포 구조 이미지">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/skills.png" width="700">
 
 ### language
 
@@ -141,15 +141,27 @@
 
 ## 🌐 System Architecture
 
-<img src="./assets/system_architecture.png" width="700" alt="배포 구조 이미지">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/system_architecture.png" width="700" alt="배포 구조 이미지">
 
 <br>
 
 ## 💾 ERD
 
-<img src="./assets/erd.png" width="700" alt="erd">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/erd.png" width="700" alt="erd">
 
 <br>
+
+---
+
+## 📱 Service
+
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/service/main.png" width="250" alt="main">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/service/mycard.png" width="250" alt="main">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/service/feed.png" width="250" alt="main">
+<br>
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/service/mypage.png" width="250" alt="main">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/service/receipt.png" width="250" alt="main">
+
 
 ---
 
