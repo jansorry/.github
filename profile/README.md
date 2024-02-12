@@ -96,7 +96,7 @@
 
 ### 메인 페이지
 
-<img src="assets/service/main.png" width="700" alt="main">
+<img src="./assets/service/main.png" width="700" alt="main">
 
 
 <br>
@@ -105,7 +105,7 @@
 
 ## 🛠️ Skills
 
-<img src="assets/skills.png" width="700" alt="배포 구조 이미지">
+<img src="./assets/skills.png" width="700" alt="배포 구조 이미지">
 
 ### language
 
@@ -141,13 +141,13 @@
 
 ## 🌐 System Architecture
 
-<img src="assets/system_architecture.png" width="700" alt="배포 구조 이미지">
+<img src="./assets/system_architecture.png" width="700" alt="배포 구조 이미지">
 
 <br>
 
 ## 💾 ERD
 
-<img src="assets/erd.png" width="700" alt="erd">
+<img src="./assets/erd.png" width="700" alt="erd">
 
 <br>
 
