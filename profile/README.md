@@ -94,9 +94,9 @@
 
 ## 🏠 Service Layout
 
-### 메인 페이지
+### 랜딩 페이지
 
-<img src="https://github.com/jansorry/.github/blob/main/profile/assets/main.png" width="250" alt="main">
+<img src="https://github.com/jansorry/.github/blob/main/profile/assets/service/landing.gif" width="250" alt="main">
 
 
 <br>
