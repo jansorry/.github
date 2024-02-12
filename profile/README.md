@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jansorry.com">
-    <img src="https://github.com/jansorry/.github/blob/main/profile/assets/title.png">
+    <img src="https://github.com/jansorry/.github/blob/main/profile/assets/title.png" alt="logo">
   </a>
 </p>
 
