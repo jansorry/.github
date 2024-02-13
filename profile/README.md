@@ -110,17 +110,17 @@
 ### language
 
 - back : Java 17
-- front : Html, CSS, JavaScript, TypeScript
+- front : Typescript
 
 ### framework
 
 - back : SpringBoot 3.2.2, Spring Data JPA
-- front : Next.js
+- front : Next 13.5.6
 
 ### skills
 
 - back : Spring Security, JWT, Oauth2.0, Spring Batch, QueryDSL
-- front :
+- front : Typescript, Vanilla Extract, Recoil
 
 ### database
 
